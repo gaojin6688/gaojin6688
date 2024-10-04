@@ -25,4 +25,4 @@
 # 图片     
 ![8b7cbf0c7d590c0a2820cca83f58f09](https://github.com/user-attachments/assets/7d403ca6-8a17-42fc-8d0c-18cbbae3fa00)
 # 剪辑视频   
-<https://github.com/gaojin6688/-/blob/main/WeChat_20241004134950%20%20%E5%89%AA%E8%BE%91%E8%A7%86%E9%A2%91.mp4>
+<javascript:void(0)>
